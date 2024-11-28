@@ -28,4 +28,4 @@ print("스택 크기:", stack.size()) # 출력: 스택 크기: 3
 print("스택 최상단 요소:", stack.peek()) # 출력: 스택 최상단 요소: 3
 print("스택에서 꺼낸 요소:", stack.pop()) # 출력: 스택에서 꺼낸 요소: 3
 print("스택 크기:", stack.size()) # 출력: 스택 크기: 2
-print("스택이 비어 있는가:", stack.is_empty()) # 출력: 스택이 비어 있는가: False
+print("스택이 비어 있는가:", stack.is_empty()) # 출력: 스택이 비어 있는가? False
